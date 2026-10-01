@@ -273,7 +273,7 @@ SOS-LMS-Portal/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SOS-LMS-Portal.git
+git clone https://github.com/FaheemaSadhikPV/SOS-LMS-Portal.git
 ```
 
 ### 2. Navigate to the Project
@@ -448,12 +448,16 @@ The project combines **Python programming, Object-Oriented Programming, data man
 
 ---
 
-## 👩‍💻 Team Members
+## Team Members
 
-**Faheema Sadhik PV**
-**Shabhana Thasnim PK**
-**Zayan Ahamed**
-**Adul**
+This project was collaboratively developed by:
+
+| Team Member |
+|-------------|
+| Faheema Sadhik PV |
+| Shabhana Thasnim PK |
+| Ahamed Zayan |
+| Adul Ahamed |
 
 Python | Data Science | Streamlit | OOP | LMS Development
 
