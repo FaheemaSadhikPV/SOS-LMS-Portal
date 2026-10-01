@@ -452,7 +452,7 @@ The project combines **Python programming, Object-Oriented Programming, data man
 
 This project was collaboratively developed by:
 
-| Team Member |
+| Team Members |
 |-------------|
 | Faheema Sadhik PV |
 | Shabhana Thasnim PK |
